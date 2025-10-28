@@ -3,14 +3,14 @@
 
 **+** __**Repository Info**__
 
-As from the September 2025, the Download Size for this Repo is : **?** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the October 2025, the Download Size for this Repo is : **166 MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found via Online and Media Sources.**
 
 
 __**Files and Folder Structure.**__
 
 **Images**
-All images from Websites are organized by category. e.g. ?.
+All images from Websites are organized by category. e.g. Fandom, Pikachus Indonesia Journey, Pokemon Air Adventures, Pokemon Fossil Museum, Pokemon Presents, Pokemon Wonder Island, Wiki, Others and More.
 
 
 ## __**Disclaimer**__
